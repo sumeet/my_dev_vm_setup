@@ -1,8 +1,6 @@
-# Transcript (Excerpt)
+# The ChatGPT thread that spawned this idea
 
-Extracted from `convo.html`, truncated before the first Twingate mention.
-
-Source header in the HTML: "This is a copy of a conversation between ChatGPT & Anonymous."
+> How this project was researched. I kind of had a vague idea of what I wanted, but ended up finding out about LXC just through prompting ChatGPT.
 
 ### User
 
