@@ -10,6 +10,12 @@
 
 ---
 
+## Transcript
+
+Excerpt of the original ChatGPT thread that led to this setup: `docs/transcript.md`.
+
+---
+
 ## Why ZFS matters (copy-on-write)
 
 LXD’s default “dir” storage does *not* give you cheap forks. ZFS does.
